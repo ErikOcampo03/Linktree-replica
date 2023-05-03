@@ -1,0 +1,19 @@
+html{
+    height: 100px;
+    margin:0;
+    overflow: hidden;
+}
+
+body{
+    font-family: sans-serif;
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F332140541248789025%2F&psig=AOvVaw0Uuz4M2lEXKseazKg0kmZY&ust=1683163018468000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiGm4D91_4CFQAAAAAdAAAAABAL);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 50px auto;
+
+}
